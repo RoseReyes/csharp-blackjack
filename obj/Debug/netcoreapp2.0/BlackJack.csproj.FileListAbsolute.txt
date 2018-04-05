@@ -1,0 +1,20 @@
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/bin/Debug/netcoreapp2.0/BlackJack.deps.json
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/bin/Debug/netcoreapp2.0/BlackJack.runtimeconfig.json
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/bin/Debug/netcoreapp2.0/BlackJack.runtimeconfig.dev.json
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/bin/Debug/netcoreapp2.0/BlackJack.dll
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/bin/Debug/netcoreapp2.0/BlackJack.pdb
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/obj/Debug/netcoreapp2.0/BlackJack.csproj.CoreCompileInputs.cache
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/obj/Debug/netcoreapp2.0/BlackJack.AssemblyInfoInputs.cache
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/obj/Debug/netcoreapp2.0/BlackJack.AssemblyInfo.cs
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/obj/Debug/netcoreapp2.0/BlackJack.dll
+C:/Users/Javier Gonzalez/Documents/CodingDojo/Bootcamp/C#/C#_IntroAssignments/BlackJack/obj/Debug/netcoreapp2.0/BlackJack.pdb
+/Users/rose/Downloads/CSharp_BlackJack-master/bin/Debug/netcoreapp2.0/BlackJack.deps.json
+/Users/rose/Downloads/CSharp_BlackJack-master/bin/Debug/netcoreapp2.0/BlackJack.runtimeconfig.json
+/Users/rose/Downloads/CSharp_BlackJack-master/bin/Debug/netcoreapp2.0/BlackJack.runtimeconfig.dev.json
+/Users/rose/Downloads/CSharp_BlackJack-master/bin/Debug/netcoreapp2.0/BlackJack.dll
+/Users/rose/Downloads/CSharp_BlackJack-master/bin/Debug/netcoreapp2.0/BlackJack.pdb
+/Users/rose/Downloads/CSharp_BlackJack-master/obj/Debug/netcoreapp2.0/BlackJack.csproj.CoreCompileInputs.cache
+/Users/rose/Downloads/CSharp_BlackJack-master/obj/Debug/netcoreapp2.0/BlackJack.AssemblyInfoInputs.cache
+/Users/rose/Downloads/CSharp_BlackJack-master/obj/Debug/netcoreapp2.0/BlackJack.AssemblyInfo.cs
+/Users/rose/Downloads/CSharp_BlackJack-master/obj/Debug/netcoreapp2.0/BlackJack.dll
+/Users/rose/Downloads/CSharp_BlackJack-master/obj/Debug/netcoreapp2.0/BlackJack.pdb
